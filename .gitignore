@@ -1,1 +1,8 @@
-git 
+*.txt
+index.txt 
+!index.text
+info-[1-3].txt
+js/*
+!js/bootstrap.js
+css/asset-[2-3].css
+contacts.html
